@@ -1,0 +1,16 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+
+# Données
+amhcd.zip
+data/
+AMHCD_64/
+
+# Informations privées
+.env
